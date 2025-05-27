@@ -27,4 +27,4 @@ O sistema utiliza FreeRTOS para gerenciar três tarefas principais: uma para ent
 
 ## Video demonstrativo
 
-*[https](https://youtu.be/VvR4pXWxvpU)*
+*[httpshttps://youtu.be/VvR4pXWxvpU]*
